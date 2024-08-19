@@ -28,7 +28,10 @@ The categories include:
 - `Internal Project`
 - `Administrative rights`
 
+**Text Length**:
 ![Text Length](Images/newplot1.png)
+
+**Label Distribution**:
 ![Label Distrubution - pie plot](Images/newplot.png)
 ![Label Distrubution - bar plot](Images/output.png)
 
