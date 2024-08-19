@@ -68,10 +68,10 @@ The model is trained for 15 epochs using the AdamW optimizer with a learning rat
 The trained model is evaluated on the test set, achieving an accuracy of 74.73%.
 
 ## Results
-- Final Test Accuracy: 74.73%
-- Training Loss: Decreases over epochs, indicating good model convergence. ![Training Loss](Images/training_loss.png)
-- Validation Loss: Monitored to prevent overfitting. ![Validation Loss](Images/validation_loss.png)
-- Validation Accuracy: Consistent and close to training accuracy, indicating good generalization. ![Validation Accuracy and Loss](Images/val_acc_loss.png)
+- **Final Test Accuracy**: 74.73%
+- **Training Loss**: Decreases over epochs, indicating good model convergence. ![Training Loss](Images/training_loss.png)
+- **Validation Loss**: Monitored to prevent overfitting. ![Validation Loss](Images/validation_loss.png)
+- **Validation Accuracy**: Consistent and close to training accuracy, indicating good generalization. ![Validation Accuracy and Loss](Images/val_acc_loss.png)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
