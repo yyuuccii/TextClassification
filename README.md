@@ -4,13 +4,11 @@ This project focuses on classifying IT service tickets into predefined categorie
 
 ## Table of Contents
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [Usage](#usage)
 - [License](#license)
 
 ## Dataset
