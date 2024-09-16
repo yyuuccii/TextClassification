@@ -44,7 +44,7 @@ The dataset is split into:
 
 ## Dependencies
 
-- Python 3.7+
+- Python 3.9.10
 - PyTorch
 - Hugging Face Transformers
 - Scikit-learn
